@@ -5,7 +5,7 @@ Used [Create React App](https://github.com/facebook/create-react-app).
 
 ## Preview
 
-[markown-previewer-typeScript](https://yk3108.github.io/markown-previewer-typeScript/)
+[markown-previewer-typeScript](https://yk3108.github.io/markdown-previewer-typescript/)
 
 ## Author
 
