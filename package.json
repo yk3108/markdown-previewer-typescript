@@ -2,7 +2,7 @@
   "name": "markdown-previewer-typescript",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yk3108.github.io/markown-previewer-typeScript/",
+  "homepage": "https://yk3108.github.io/markdown-previewer-typeScript/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
